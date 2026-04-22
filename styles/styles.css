@@ -1,0 +1,42 @@
+.encabezado{
+    background-image: url(./night-tokyo-street-cartoon-game-background-urban-cityscape-japanese-city-nightlife-busy-downtown-scene-neon-lights-cityscape-illustration-gaming-environment_543062-11290.jpg);
+    background-size:cover;
+    color: #ffffff;
+    font-family: "Noto Serif JP", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+#fondodetitulo{
+    background-color: rgba(13, 13, 65, 0.6);
+    border: solid transparent;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(212, 212, 212);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-image: url(./night-tokyo-street-cartoon-game-background-urban-cityscape-japanese-city-nightlife-busy-downtown-scene-neon-lights-cityscape-illustration-gaming-environment_543062-11290.jpg);
+    background-size:cover;
+    color: #ffffff;
+    font-family: "Noto Serif JP", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 0,3rem;
+    padding: 2rem;
+    text-align: center;
+    
+
+}
+
+#fondodefooter{
+    background-color: rgba(13, 13, 65, 0.6);
+    border: solid transparent;
+    border-radius: 10px;
+}
