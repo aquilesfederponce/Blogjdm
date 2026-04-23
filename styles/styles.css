@@ -40,3 +40,11 @@ footer{
     border: solid transparent;
     border-radius: 10px;
 }
+
+.post1{
+    background-color: #ffffff;
+    border: 3px solid transparent;
+    border-radius: 20px;
+    padding: 1rem;
+    margin: 1rem;
+}
